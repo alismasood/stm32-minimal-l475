@@ -1,0 +1,10 @@
+
+*.bin
+*.elf
+*.hex
+*.lst
+*.map
+
+/build/
+/Drivers/*
+
